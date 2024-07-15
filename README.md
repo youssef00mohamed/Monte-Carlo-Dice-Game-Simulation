@@ -24,7 +24,7 @@ This project simulates a dice game using Monte Carlo methods to analyze win prob
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your_username/monte-carlo-dice-game.git
+   git clone https://github.com/youssef00mohamed/monte-carlo-dice-game.git
    cd monte-carlo-dice-game
 
 2. **Run the simulation:**
